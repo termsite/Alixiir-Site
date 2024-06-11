@@ -1,0 +1,90 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    text-shadow: 1px 1px 10px #fff;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    text-align: center;
+    position: relative;
+    text-shadow: 1px 1px 10px #fff;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    padding-top: 60vh;
+}
+
+.option1 {
+    padding-top: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 10px #fff;
+    text-align: center;
+    position: relative;
+    font-size: 23px;
+    color: #fff;
+    background-color: #f0dba7;
+    width: 50%;
+    border: 3px solid rgb(214, 185, 127);
+    padding: 10px;
+    box-shadow: 0px 0px 10px #fff;
+}
+
+.buttonz {
+    padding-top: 25px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbtn1 {
+    max-width: fit-content;
+    text-align: center;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #ff6a00;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+}
+
+.nav {
+    padding-bottom: 1px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 2px solid #000000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
