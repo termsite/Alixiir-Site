@@ -196,3 +196,10 @@ function restart(grid_size) {
 	}
 }
 
+function xwin {
+	updateScores(999, 0);
+}
+
+function owin {
+	updateScores(0, 999);
+}
