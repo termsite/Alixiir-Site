@@ -1,0 +1,41 @@
+body {
+	background-color: #343433
+}
+
+.name {
+	color: #fff;
+	font-family: Arial, Helvetica;
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	text-shadow: 1px 1px 10px #FFF
+}
+
+.clicks {
+	color: #fff;
+	font-family: Arial, Helvetica;
+	font-size: 30px;
+	text-align: center;
+	position: relative;
+	text-shadow: 1px 1px 10px #fff;
+}
+
+.btn {
+	font-family: Arial, Helvetica;
+	font-size: 25px;
+}
+
+.btns {
+	text-align: center;
+	position: relative;
+}
+
+.facts {
+	text-align: center;
+	position: relative;
+	color: #fff;
+	font-family: Arial, Helvetica;
+	font-size: 15px;
+	text-shadow: 1px 1px 10px #fff;
+	padding-top: 60vh;
+}
